@@ -34,5 +34,3 @@ This project relates to Technology because I used Java programming to create a s
 3. What SLOs did you demonstrate during completing this project?
 
 I demonstrated problem solving by planning and debugging my code. I demonstrated computational thinking by organizing my program into classes, objects, and methods. I also demonstrated perseverance by fixing errors and using object oriented programming concepts, such as inheritance and method overriding to complete my project.
-
-

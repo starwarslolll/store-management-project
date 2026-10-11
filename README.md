@@ -25,7 +25,14 @@ Embed your UML Diagram here. Upload the image of your UML Diagram to your repo, 
 
 1. Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is used to output information for your store in the console.
 
+My project is a store management system that represents different products, such as beverages, coffee, and smoothies. I chose this topic because stores are useful in everyday life. My program uses classes, objects, instance variables, methods, inheritance, and toString() methods to organize information about each product. The user can view product information, including its name, price, and size.
+
 2. How is this project related to STEAM (Science, Technology, Engineering, Art, and Mathematics)? Provide explicit examples from the project and details as possible. 
 
+This project relates to Technology because I used Java programming to create a store management system. It relates to Engineering because I organized the classes and methods to make the program work correctly. It relates to Mathematics because the program uses numerical values, such as product prices, and allows information to be organized and compared.
+
 3. What SLOs did you demonstrate during completing this project?
+
+I demonstrated problem solving by planning and debugging my code. I demonstrated computational thinking by organizing my program into classes, objects, and methods. I also demonstrated perseverance by fixing errors and using object oriented programming concepts, such as inheritance and method overriding to complete my project.
+
 
